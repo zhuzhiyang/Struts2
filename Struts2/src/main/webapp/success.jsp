@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>Hello hand!</p>
+<p>Hello hands!</p>
 </body>
 </html>
